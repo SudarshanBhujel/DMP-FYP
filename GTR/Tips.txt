@@ -1,0 +1,24 @@
+abrupt change in spacing of vertices not good
+gradual progressive distancing is fine
+
+car_dimensions
+Overall Dimensions
+Length: 4,600 mm (181.1 in)
+Width: 1,785 mm (70.3 in)
+Height: 1,360 mm (53.5 in)
+Wheelbase: 2,665 mm (104.9 in)
+Front Track Width: 1,480 mm (58.3 in)
+Rear Track Width: 1,490 mm (58.7 in)
+Ground Clearance: ~130 mm (5.1 in)
+Hood Dimensions (Approximate)
+Width: ~1,450 mm (57 in) (matches front width of the car)
+Length: ~1,100 mm (43 in) (from windshield base to front bumper)
+Wheels & Tires
+Stock Wheel Size: 18 x 9.0J
+Tire Size: 245/40ZR18
+Bolt Pattern: 5x114.3 mm
+Other Key Measurements
+Door Length: ~1,200 mm (47.2 in)
+Rear Spoiler Width: ~1,400 mm (55.1 in)
+Side Mirror Width (total width with mirrors): ~1,800 mm (70.9 in)
+
